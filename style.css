@@ -11,4 +11,19 @@
 
 .main-header .__title {
     color: blue;
+    margin-bottom: 20px;
+}
+
+.__nav ul {
+    display: inline-block;
+
+    
+}
+
+.__nav a:hover {
+    color: green;
+}
+
+.__nav a {
+    text-decoration: none;
 }
