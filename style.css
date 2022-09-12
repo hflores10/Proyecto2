@@ -4,6 +4,8 @@
     margin: 0;
 }
 
+
+
 .main-header {
     background-color: skyblue;
 
@@ -29,7 +31,11 @@
     color: white;
     font-size: 25px;
     border-radius: 25%;
-    border: 1px solid;
+   
     border-color: red;
     background-color: blue;
+}
+
+h1 + nav {
+    border: 2px solid red;
 }
