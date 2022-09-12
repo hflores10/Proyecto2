@@ -27,4 +27,9 @@
 .__nav a {
     text-decoration: none;
     color: white;
+    font-size: 25px;
+    border-radius: 25%;
+    border: 1px solid;
+    border-color: red;
+    background-color: blue;
 }
